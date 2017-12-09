@@ -1,0 +1,505 @@
+Nr. reviews,Nr. hotel reviews,Score,Hotel name,Hotel stars
+1,0,2,Tuscany Las Vegas Suites & Casino,3
+6,0,4,Excalibur Hotel & Casino,3
+2,1,4,Circus Circus Hotel & Casino Las Vegas,3
+2,1,3,Hilton Grand Vacations at the Flamingo,3
+3,3,3,Circus Circus Hotel & Casino Las Vegas,3
+3,3,3,Excalibur Hotel & Casino,3
+3,3,3,Tuscany Las Vegas Suites & Casino,3
+3,3,2,Hilton Grand Vacations at the Flamingo,3
+3,3,5,Hilton Grand Vacations at the Flamingo,3
+4,3,1,Circus Circus Hotel & Casino Las Vegas,3
+4,3,3,Excalibur Hotel & Casino,3
+6,3,4,Excalibur Hotel & Casino,3
+7,3,4,Tuscany Las Vegas Suites & Casino,3
+8,3,5,Hilton Grand Vacations at the Flamingo,3
+9,3,4,Circus Circus Hotel & Casino Las Vegas,3
+11,3,4,Tuscany Las Vegas Suites & Casino,3
+24,3,4,Circus Circus Hotel & Casino Las Vegas,3
+4,4,2,Circus Circus Hotel & Casino Las Vegas,3
+5,4,5,Tuscany Las Vegas Suites & Casino,3
+11,4,5,Circus Circus Hotel & Casino Las Vegas,3
+13,4,5,Tuscany Las Vegas Suites & Casino,3
+13,4,5,Tuscany Las Vegas Suites & Casino,3
+17,4,4,Hilton Grand Vacations at the Flamingo,3
+5,5,4,Circus Circus Hotel & Casino Las Vegas,3
+10,5,4,Circus Circus Hotel & Casino Las Vegas,3
+11,5,5,Tuscany Las Vegas Suites & Casino,3
+14,5,4,Hilton Grand Vacations at the Flamingo,3
+20,5,3,Excalibur Hotel & Casino,3
+22,5,3,Circus Circus Hotel & Casino Las Vegas,3
+25,5,5,Tuscany Las Vegas Suites & Casino,3
+7,6,2,Circus Circus Hotel & Casino Las Vegas,3
+24,6,2,Excalibur Hotel & Casino,3
+28,6,3,Tuscany Las Vegas Suites & Casino,3
+45,6,5,Hilton Grand Vacations at the Flamingo,3
+47,6,4,Excalibur Hotel & Casino,3
+8,7,2,Circus Circus Hotel & Casino Las Vegas,3
+8,7,5,Excalibur Hotel & Casino,3
+9,7,5,Hilton Grand Vacations at the Flamingo,3
+12,7,3,Circus Circus Hotel & Casino Las Vegas,3
+13,7,5,Hilton Grand Vacations at the Flamingo,3
+14,7,4,Circus Circus Hotel & Casino Las Vegas,3
+18,7,4,Circus Circus Hotel & Casino Las Vegas,3
+20,7,3,Excalibur Hotel & Casino,3
+26,7,4,Hilton Grand Vacations at the Flamingo,3
+56,7,3,Hilton Grand Vacations at the Flamingo,3
+8,8,1,Circus Circus Hotel & Casino Las Vegas,3
+9,8,5,Tuscany Las Vegas Suites & Casino,3
+11,8,5,Excalibur Hotel & Casino,3
+11,8,3,Hilton Grand Vacations at the Flamingo,3
+29,8,3,Excalibur Hotel & Casino,3
+31,8,3,Circus Circus Hotel & Casino Las Vegas,3
+34,8,3,Excalibur Hotel & Casino,3
+35,8,4,Excalibur Hotel & Casino,3
+56,8,3,Excalibur Hotel & Casino,3
+20,9,3,Circus Circus Hotel & Casino Las Vegas,3
+20,9,4,Hilton Grand Vacations at the Flamingo,3
+36,9,5,Circus Circus Hotel & Casino Las Vegas,3
+41,9,3,Circus Circus Hotel & Casino Las Vegas,3
+58,9,4,Excalibur Hotel & Casino,3
+26,10,5,Excalibur Hotel & Casino,3
+39,10,4,Tuscany Las Vegas Suites & Casino,3
+19,11,3,Tuscany Las Vegas Suites & Casino,3
+29,11,4,Excalibur Hotel & Casino,3
+31,11,5,Hilton Grand Vacations at the Flamingo,3
+12,12,3,Tuscany Las Vegas Suites & Casino,3
+13,12,3,Excalibur Hotel & Casino,3
+30,12,5,Excalibur Hotel & Casino,3
+32,12,4,Hilton Grand Vacations at the Flamingo,3
+38,12,5,Tuscany Las Vegas Suites & Casino,3
+45,12,4,Circus Circus Hotel & Casino Las Vegas,3
+61,13,2,Hilton Grand Vacations at the Flamingo,3
+66,13,5,Hilton Grand Vacations at the Flamingo,3
+82,14,3,Hilton Grand Vacations at the Flamingo,3
+27,15,3,Tuscany Las Vegas Suites & Casino,3
+27,15,5,Tuscany Las Vegas Suites & Casino,3
+26,17,5,Tuscany Las Vegas Suites & Casino,3
+146,17,4,Circus Circus Hotel & Casino Las Vegas,3
+56,18,5,Hilton Grand Vacations at the Flamingo,3
+87,18,3,Excalibur Hotel & Casino,3
+108,20,3,Tuscany Las Vegas Suites & Casino,3
+119,20,5,Tuscany Las Vegas Suites & Casino,3
+119,21,3,Circus Circus Hotel & Casino Las Vegas,3
+23,23,5,Hilton Grand Vacations at the Flamingo,3
+65,24,3,Hilton Grand Vacations at the Flamingo,3
+102,24,2,Circus Circus Hotel & Casino Las Vegas,3
+70,27,4,Excalibur Hotel & Casino,3
+114,42,4,Excalibur Hotel & Casino,3
+116,44,4,Hilton Grand Vacations at the Flamingo,3
+74,47,4,Excalibur Hotel & Casino,3
+113,48,3,Hilton Grand Vacations at the Flamingo,3
+55,55,5,Tuscany Las Vegas Suites & Casino,3
+167,71,5,Tuscany Las Vegas Suites & Casino,3
+167,71,4,Tuscany Las Vegas Suites & Casino,3
+608,117,5,Tuscany Las Vegas Suites & Casino,3
+290,263,4,Excalibur Hotel & Casino,3
+290,263,4,Hilton Grand Vacations at the Flamingo,3
+6,0,5,Marriott's Grand Chateau,3
+10,0,5,Hilton Grand Vacations on the Boulevard,3
+11,0,5,Marriott's Grand Chateau,3
+4,3,5,Hilton Grand Vacations on the Boulevard,3
+6,3,5,Marriott's Grand Chateau,3
+6,3,5,Wyndham Grand Desert,3
+9,3,5,Hilton Grand Vacations on the Boulevard,3
+10,3,5,Hilton Grand Vacations on the Boulevard,3
+11,3,2,Hilton Grand Vacations on the Boulevard,3
+14,3,5,Wyndham Grand Desert,3
+17,3,4,Wyndham Grand Desert,3
+4,4,3,Hilton Grand Vacations on the Boulevard,3
+7,4,5,Hilton Grand Vacations on the Boulevard,3
+12,4,5,Wyndham Grand Desert,3
+12,4,5,Wyndham Grand Desert,3
+16,4,5,Wyndham Grand Desert,3
+60,4,4,Marriott's Grand Chateau,3
+6,5,5,Marriott's Grand Chateau,3
+7,5,4,Hilton Grand Vacations on the Boulevard,3
+9,5,4,Hilton Grand Vacations on the Boulevard,3
+26,5,4,Wyndham Grand Desert,3
+11,6,5,Hilton Grand Vacations on the Boulevard,3
+60,7,5,Hilton Grand Vacations on the Boulevard,3
+27,8,4,Wyndham Grand Desert,3
+41,8,3,Wyndham Grand Desert,3
+18,9,3,Marriott's Grand Chateau,3
+23,9,3,Wyndham Grand Desert,3
+42,9,5,Marriott's Grand Chateau,3
+54,10,4,Wyndham Grand Desert,3
+21,11,5,Wyndham Grand Desert,3
+42,11,5,Hilton Grand Vacations on the Boulevard,3
+60,11,5,Wyndham Grand Desert,3
+20,12,5,Marriott's Grand Chateau,3
+23,12,5,Wyndham Grand Desert,3
+24,12,4,Wyndham Grand Desert,3
+27,12,5,Wyndham Grand Desert,3
+34,12,4,Wyndham Grand Desert,3
+86,12,4,Marriott's Grand Chateau,3
+21,13,5,Marriott's Grand Chateau,3
+22,15,4,Hilton Grand Vacations on the Boulevard,3
+20,16,4,Hilton Grand Vacations on the Boulevard,3
+28,17,5,Hilton Grand Vacations on the Boulevard,3
+35,17,5,Wyndham Grand Desert,3
+78,17,4,Hilton Grand Vacations on the Boulevard,3
+39,18,4,Hilton Grand Vacations on the Boulevard,3
+84,18,5,Marriott's Grand Chateau,3
+88,19,5,Marriott's Grand Chateau,3
+48,21,5,Hilton Grand Vacations on the Boulevard,3
+69,22,5,Wyndham Grand Desert,3
+47,23,4,Marriott's Grand Chateau,3
+182,24,4,Wyndham Grand Desert,3
+70,25,1,Hilton Grand Vacations on the Boulevard,3
+76,27,3,Wyndham Grand Desert,3
+289,28,4,Wyndham Grand Desert,3
+37,31,5,Hilton Grand Vacations on the Boulevard,3
+64,33,4,Marriott's Grand Chateau,3
+112,34,5,Hilton Grand Vacations on the Boulevard,3
+160,34,4,Marriott's Grand Chateau,3
+101,35,5,Wyndham Grand Desert,3
+75,37,5,Marriott's Grand Chateau,3
+95,37,4,Marriott's Grand Chateau,3
+106,37,4,Hilton Grand Vacations on the Boulevard,3
+46,39,4,Marriott's Grand Chateau,3
+50,39,2,Hilton Grand Vacations on the Boulevard,3
+62,40,5,Marriott's Grand Chateau,3
+159,43,5,Marriott's Grand Chateau,3
+92,49,4,Hilton Grand Vacations on the Boulevard,3
+240,76,5,Marriott's Grand Chateau,3
+372,78,4,Marriott's Grand Chateau,3
+275,79,4,Marriott's Grand Chateau,3
+118,107,5,Marriott's Grand Chateau,3
+415,162,4,Wyndham Grand Desert,3
+1,0,1,Monte Carlo Resort&Casino,4
+10,0,4,Treasure Island- TI Hotel & Casino,4
+27,0,1,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+4,3,5,Treasure Island- TI Hotel & Casino,4
+5,3,5,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+5,3,2,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+7,3,4,Treasure Island- TI Hotel & Casino,4
+12,3,4,Treasure Island- TI Hotel & Casino,4
+12,3,5,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+13,3,2,Monte Carlo Resort&Casino,4
+13,3,4,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+14,3,4,Paris Las Vegas,4
+15,3,3,The Westin las Vegas Hotel Casino & Spa,4
+18,3,2,Paris Las Vegas,4
+19,3,5,Paris Las Vegas,4
+24,3,5,Paris Las Vegas,4
+35,3,5,The Westin las Vegas Hotel Casino & Spa,4
+4,4,2,Paris Las Vegas,4
+6,4,5,Paris Las Vegas,4
+8,4,4,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+12,4,3,Treasure Island- TI Hotel & Casino,4
+14,4,4,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+15,4,5,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+15,4,5,The Westin las Vegas Hotel Casino & Spa,4
+73,4,3,Paris Las Vegas,4
+6,5,4,Treasure Island- TI Hotel & Casino,4
+7,5,4,Monte Carlo Resort&Casino,4
+8,5,4,Monte Carlo Resort&Casino,4
+9,5,5,Paris Las Vegas,4
+10,5,4,Monte Carlo Resort&Casino,4
+11,5,4,Treasure Island- TI Hotel & Casino,4
+9,6,3,Monte Carlo Resort&Casino,4
+9,6,2,The Westin las Vegas Hotel Casino & Spa,4
+10,6,5,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+12,6,5,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+13,6,5,Paris Las Vegas,4
+18,6,4,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+21,6,4,The Westin las Vegas Hotel Casino & Spa,4
+22,6,5,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+8,7,5,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+12,7,5,Treasure Island- TI Hotel & Casino,4
+14,7,5,Paris Las Vegas,4
+14,7,5,The Westin las Vegas Hotel Casino & Spa,4
+20,7,4,Monte Carlo Resort&Casino,4
+24,7,4,Paris Las Vegas,4
+41,7,4,Monte Carlo Resort&Casino,4
+73,7,5,Paris Las Vegas,4
+9,8,5,The Westin las Vegas Hotel Casino & Spa,4
+12,8,4,Treasure Island- TI Hotel & Casino,4
+20,8,4,Monte Carlo Resort&Casino,4
+31,8,4,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+33,8,5,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+43,8,4,Treasure Island- TI Hotel & Casino,4
+48,8,4,Paris Las Vegas,4
+11,9,3,Treasure Island- TI Hotel & Casino,4
+13,9,4,Monte Carlo Resort&Casino,4
+17,9,5,Treasure Island- TI Hotel & Casino,4
+19,9,5,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+22,9,4,Paris Las Vegas,4
+27,9,4,Treasure Island- TI Hotel & Casino,4
+13,10,4,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+17,10,4,The Westin las Vegas Hotel Casino & Spa,4
+18,10,3,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+20,10,4,Paris Las Vegas,4
+24,10,5,Monte Carlo Resort&Casino,4
+30,10,3,Monte Carlo Resort&Casino,4
+12,11,4,The Westin las Vegas Hotel Casino & Spa,4
+27,11,3,Treasure Island- TI Hotel & Casino,4
+29,11,3,Treasure Island- TI Hotel & Casino,4
+33,11,5,The Westin las Vegas Hotel Casino & Spa,4
+78,11,4,Treasure Island- TI Hotel & Casino,4
+19,12,4,Treasure Island- TI Hotel & Casino,4
+30,12,5,Paris Las Vegas,4
+33,12,3,Monte Carlo Resort&Casino,4
+116,12,4,Paris Las Vegas,4
+16,13,3,Treasure Island- TI Hotel & Casino,4
+20,13,4,The Westin las Vegas Hotel Casino & Spa,4
+38,13,3,The Westin las Vegas Hotel Casino & Spa,4
+50,13,4,The Westin las Vegas Hotel Casino & Spa,4
+73,13,4,Monte Carlo Resort&Casino,4
+121,13,2,Paris Las Vegas,4
+15,14,4,Treasure Island- TI Hotel & Casino,4
+43,14,4,Treasure Island- TI Hotel & Casino,4
+56,14,5,Monte Carlo Resort&Casino,4
+39,15,3,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+50,15,4,Paris Las Vegas,4
+63,15,4,Monte Carlo Resort&Casino,4
+88,15,4,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+21,16,5,Treasure Island- TI Hotel & Casino,4
+56,16,4,Paris Las Vegas,4
+63,16,3,The Westin las Vegas Hotel Casino & Spa,4
+19,17,4,Monte Carlo Resort&Casino,4
+20,17,3,The Westin las Vegas Hotel Casino & Spa,4
+23,17,3,Monte Carlo Resort&Casino,4
+27,17,3,Treasure Island- TI Hotel & Casino,4
+34,17,4,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+21,18,2,Monte Carlo Resort&Casino,4
+54,18,2,Monte Carlo Resort&Casino,4
+20,19,4,The Westin las Vegas Hotel Casino & Spa,4
+25,19,3,The Westin las Vegas Hotel Casino & Spa,4
+36,19,2,Monte Carlo Resort&Casino,4
+130,19,3,Paris Las Vegas,4
+21,20,5,Treasure Island- TI Hotel & Casino,4
+23,21,3,The Westin las Vegas Hotel Casino & Spa,4
+38,22,4,The Westin las Vegas Hotel Casino & Spa,4
+154,23,4,The Westin las Vegas Hotel Casino & Spa,4
+123,26,5,Paris Las Vegas,4
+30,27,5,The Westin las Vegas Hotel Casino & Spa,4
+97,31,4,Treasure Island- TI Hotel & Casino,4
+418,32,2,Monte Carlo Resort&Casino,4
+85,37,5,Paris Las Vegas,4
+79,39,3,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+130,41,4,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+137,42,3,Paris Las Vegas,4
+169,43,4,The Westin las Vegas Hotel Casino & Spa,4
+576,43,3,Monte Carlo Resort&Casino,4
+96,47,4,The Westin las Vegas Hotel Casino & Spa,4
+189,72,4,The Westin las Vegas Hotel Casino & Spa,4
+79,78,4,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+156,126,3,Monte Carlo Resort&Casino,4
+2,0,4,The Cromwell,4
+2,0,5,The Cromwell,4
+2,0,5,The Cromwell,4
+3,0,5,The Cromwell,4
+4,0,1,The Cromwell,4
+14,0,2,The Cromwell,4
+4,4,5,The Cromwell,4
+13,4,4,The Cromwell,4
+26,6,5,The Cromwell,4
+26,7,4,The Cromwell,4
+9,9,2,The Cromwell,4
+59,9,5,The Cromwell,4
+25,10,5,The Cromwell,4
+69,11,5,The Cromwell,4
+92,12,4,The Cromwell,4
+17,14,5,The Cromwell,4
+21,18,5,The Cromwell,4
+49,22,3,The Cromwell,4
+148,33,4,The Cromwell,4
+320,45,3,The Cromwell,4
+184,52,5,The Cromwell,4
+131,61,3,The Cromwell,4
+262,75,4,The Cromwell,4
+235,111,5,The Cromwell,4
+1,0,5,Trump International Hotel Las Vegas,5
+1,0,5,Trump International Hotel Las Vegas,5
+1,0,2,Trump International Hotel Las Vegas,5
+1,0,5,The Venetian Las Vegas Hotel,5
+2,0,1,Trump International Hotel Las Vegas,5
+3,0,2,Bellagio Las Vegas,5
+4,0,5,The Palazzo Resort Hotel Casino,5
+5,0,5,Bellagio Las Vegas,5
+20,0,5,The Venetian Las Vegas Hotel,5
+3,3,4,The Cosmopolitan Las Vegas,5
+3,3,4,Trump International Hotel Las Vegas,5
+3,3,1,Encore at wynn Las Vegas,5
+4,3,5,Caesars Palace,5
+4,3,2,The Cosmopolitan Las Vegas,5
+4,3,5,Trump International Hotel Las Vegas,5
+4,3,5,Encore at wynn Las Vegas,5
+5,3,5,The Palazzo Resort Hotel Casino,5
+5,3,5,Wynn Las Vegas,5
+7,3,5,The Cosmopolitan Las Vegas,5
+9,3,5,The Palazzo Resort Hotel Casino,5
+9,3,5,Encore at wynn Las Vegas,5
+9,3,3,The Venetian Las Vegas Hotel,5
+10,3,5,The Palazzo Resort Hotel Casino,5
+13,3,5,Bellagio Las Vegas,5
+14,3,5,Caesars Palace,5
+15,3,5,Bellagio Las Vegas,5
+20,3,5,The Venetian Las Vegas Hotel,5
+4,4,4,Bellagio Las Vegas,5
+5,4,5,Wynn Las Vegas,5
+6,4,1,The Cosmopolitan Las Vegas,5
+6,4,5,The Palazzo Resort Hotel Casino,5
+7,4,5,Wynn Las Vegas,5
+7,4,5,Trump International Hotel Las Vegas,5
+8,4,5,Wynn Las Vegas,5
+17,4,5,The Palazzo Resort Hotel Casino,5
+18,4,5,The Cosmopolitan Las Vegas,5
+46,4,4,Caesars Palace,5
+93,4,5,The Palazzo Resort Hotel Casino,5
+5,5,5,Caesars Palace,5
+5,5,5,Encore at wynn Las Vegas,5
+7,5,4,Wynn Las Vegas,5
+7,5,3,Encore at wynn Las Vegas,5
+7,5,5,The Venetian Las Vegas Hotel,5
+12,5,5,The Cosmopolitan Las Vegas,5
+12,5,5,Encore at wynn Las Vegas,5
+15,5,5,The Cosmopolitan Las Vegas,5
+15,5,5,Encore at wynn Las Vegas,5
+19,5,5,Wynn Las Vegas,5
+21,5,4,Wynn Las Vegas,5
+28,5,5,Bellagio Las Vegas,5
+32,5,4,Bellagio Las Vegas,5
+103,5,5,The Cosmopolitan Las Vegas,5
+6,6,3,Caesars Palace,5
+6,6,5,The Cosmopolitan Las Vegas,5
+6,6,4,The Venetian Las Vegas Hotel,5
+9,6,5,The Venetian Las Vegas Hotel,5
+10,6,5,Wynn Las Vegas,5
+12,6,5,The Cosmopolitan Las Vegas,5
+12,6,3,Bellagio Las Vegas,5
+13,6,4,Bellagio Las Vegas,5
+14,6,5,Caesars Palace,5
+15,6,1,Caesars Palace,5
+15,6,4,The Venetian Las Vegas Hotel,5
+15,6,5,Bellagio Las Vegas,5
+16,6,4,Bellagio Las Vegas,5
+20,6,5,The Venetian Las Vegas Hotel,5
+21,6,5,The Venetian Las Vegas Hotel,5
+30,6,4,Bellagio Las Vegas,5
+32,6,5,The Palazzo Resort Hotel Casino,5
+9,7,5,The Cosmopolitan Las Vegas,5
+10,7,5,Caesars Palace,5
+11,7,4,Wynn Las Vegas,5
+11,7,5,Trump International Hotel Las Vegas,5
+12,7,2,Wynn Las Vegas,5
+13,7,5,Encore at wynn Las Vegas,5
+13,7,4,The Venetian Las Vegas Hotel,5
+16,7,4,Trump International Hotel Las Vegas,5
+19,7,5,The Venetian Las Vegas Hotel,5
+21,7,5,Trump International Hotel Las Vegas,5
+23,7,4,Caesars Palace,5
+23,7,4,The Cosmopolitan Las Vegas,5
+29,7,5,The Venetian Las Vegas Hotel,5
+37,7,5,The Palazzo Resort Hotel Casino,5
+11,8,4,Bellagio Las Vegas,5
+14,8,5,Caesars Palace,5
+19,8,4,The Cosmopolitan Las Vegas,5
+19,8,4,The Palazzo Resort Hotel Casino,5
+19,8,5,The Venetian Las Vegas Hotel,5
+26,8,4,Trump International Hotel Las Vegas,5
+30,8,2,The Cosmopolitan Las Vegas,5
+34,8,4,Encore at wynn Las Vegas,5
+37,8,4,The Palazzo Resort Hotel Casino,5
+42,8,4,The Palazzo Resort Hotel Casino,5
+49,8,5,Trump International Hotel Las Vegas,5
+15,9,5,Wynn Las Vegas,5
+16,9,4,The Cosmopolitan Las Vegas,5
+18,9,5,The Cosmopolitan Las Vegas,5
+30,9,2,Bellagio Las Vegas,5
+36,9,4,The Cosmopolitan Las Vegas,5
+41,9,5,Bellagio Las Vegas,5
+11,10,5,Caesars Palace,5
+11,10,5,Encore at wynn Las Vegas,5
+15,10,3,Caesars Palace,5
+16,10,3,Wynn Las Vegas,5
+16,10,5,The Venetian Las Vegas Hotel,5
+17,10,5,Bellagio Las Vegas,5
+23,10,5,Bellagio Las Vegas,5
+30,10,5,Wynn Las Vegas,5
+31,10,4,The Palazzo Resort Hotel Casino,5
+34,10,4,Encore at wynn Las Vegas,5
+41,10,5,The Cosmopolitan Las Vegas,5
+83,10,4,The Venetian Las Vegas Hotel,5
+18,11,5,Wynn Las Vegas,5
+19,11,4,Trump International Hotel Las Vegas,5
+20,11,5,The Palazzo Resort Hotel Casino,5
+29,11,5,Encore at wynn Las Vegas,5
+31,11,4,The Venetian Las Vegas Hotel,5
+32,11,5,Encore at wynn Las Vegas,5
+56,11,5,The Venetian Las Vegas Hotel,5
+28,12,5,Encore at wynn Las Vegas,5
+31,12,5,Caesars Palace,5
+35,12,5,Encore at wynn Las Vegas,5
+39,12,5,Caesars Palace,5
+40,12,5,Wynn Las Vegas,5
+46,12,5,Encore at wynn Las Vegas,5
+16,13,5,Wynn Las Vegas,5
+18,13,5,Wynn Las Vegas,5
+20,13,5,Wynn Las Vegas,5
+22,13,4,The Venetian Las Vegas Hotel,5
+33,13,5,Trump International Hotel Las Vegas,5
+62,13,4,Bellagio Las Vegas,5
+16,14,5,Encore at wynn Las Vegas,5
+48,14,5,Trump International Hotel Las Vegas,5
+50,14,5,Caesars Palace,5
+17,15,4,Caesars Palace,5
+113,15,5,The Cosmopolitan Las Vegas,5
+35,16,4,Trump International Hotel Las Vegas,5
+60,16,4,The Venetian Las Vegas Hotel,5
+91,16,4,The Palazzo Resort Hotel Casino,5
+17,17,5,The Cosmopolitan Las Vegas,5
+78,17,5,Trump International Hotel Las Vegas,5
+102,17,5,The Cosmopolitan Las Vegas,5
+142,17,4,Wynn Las Vegas,5
+2,18,5,Wynn Las Vegas,5
+20,18,2,Bellagio Las Vegas,5
+24,18,5,Trump International Hotel Las Vegas,5
+26,18,5,Bellagio Las Vegas,5
+38,18,5,Trump International Hotel Las Vegas,5
+54,18,4,Caesars Palace,5
+77,18,4,Bellagio Las Vegas,5
+50,19,5,The Cosmopolitan Las Vegas,5
+75,19,4,The Palazzo Resort Hotel Casino,5
+110,19,4,Trump International Hotel Las Vegas,5
+28,20,3,The Palazzo Resort Hotel Casino,5
+39,20,4,The Venetian Las Vegas Hotel,5
+57,20,5,The Palazzo Resort Hotel Casino,5
+136,20,5,Trump International Hotel Las Vegas,5
+139,20,5,Encore at wynn Las Vegas,5
+48,21,4,Caesars Palace,5
+25,22,1,Caesars Palace,5
+26,22,5,Bellagio Las Vegas,5
+28,23,3,The Palazzo Resort Hotel Casino,5
+24,24,2,The Cosmopolitan Las Vegas,5
+35,24,5,Caesars Palace,5
+31,25,3,The Palazzo Resort Hotel Casino,5
+53,25,5,Trump International Hotel Las Vegas,5
+102,25,5,Bellagio Las Vegas,5
+169,25,5,Encore at wynn Las Vegas,5
+63,27,4,Caesars Palace,5
+73,27,5,Wynn Las Vegas,5
+36,30,5,The Palazzo Resort Hotel Casino,5
+73,32,4,Encore at wynn Las Vegas,5
+66,33,5,The Palazzo Resort Hotel Casino,5
+161,33,4,Caesars Palace,5
+95,34,5,The Venetian Las Vegas Hotel,5
+44,35,5,Bellagio Las Vegas,5
+125,35,5,Wynn Las Vegas,5
+43,38,5,The Venetian Las Vegas Hotel,5
+113,38,4,Encore at wynn Las Vegas,5
+153,38,5,Caesars Palace,5
+127,40,5,The Cosmopolitan Las Vegas,5
+127,40,4,Encore at wynn Las Vegas,5
+85,43,5,Encore at wynn Las Vegas,5
+67,46,5,Wynn Las Vegas,5
+52,48,3,The Palazzo Resort Hotel Casino,5
+164,48,5,Wynn Las Vegas,5
+775,52,3,Trump International Hotel Las Vegas,5
+252,55,4,The Palazzo Resort Hotel Casino,5
+59,56,3,Caesars Palace,5
+69,58,5,Trump International Hotel Las Vegas,5
+333,58,5,Encore at wynn Las Vegas,5
+116,78,5,The Venetian Las Vegas Hotel,5
