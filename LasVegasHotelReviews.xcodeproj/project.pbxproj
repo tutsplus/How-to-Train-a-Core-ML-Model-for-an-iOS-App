@@ -12,6 +12,7 @@
 		C4F51BAC1FDB3EAA00808730 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4F51BAA1FDB3EAA00808730 /* Main.storyboard */; };
 		C4F51BAE1FDB3EAA00808730 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4F51BAD1FDB3EAA00808730 /* Assets.xcassets */; };
 		C4F51BB11FDB3EAA00808730 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4F51BAF1FDB3EAA00808730 /* LaunchScreen.storyboard */; };
+		C4F51BB91FDB3EEA00808730 /* Vegas_Reviews.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = C4F51BB81FDB3EEA00808730 /* Vegas_Reviews.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C4F51BAD1FDB3EAA00808730 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C4F51BB01FDB3EAA00808730 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C4F51BB21FDB3EAA00808730 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C4F51BB81FDB3EEA00808730 /* Vegas_Reviews.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = Vegas_Reviews.mlmodel; path = ../../Vegas_Reviews.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				C4F51BA81FDB3EAA00808730 /* ViewController.swift */,
 				C4F51BAA1FDB3EAA00808730 /* Main.storyboard */,
 				C4F51BAD1FDB3EAA00808730 /* Assets.xcassets */,
+				C4F51BB81FDB3EEA00808730 /* Vegas_Reviews.mlmodel */,
 				C4F51BAF1FDB3EAA00808730 /* LaunchScreen.storyboard */,
 				C4F51BB21FDB3EAA00808730 /* Info.plist */,
 			);
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4F51BA91FDB3EAA00808730 /* ViewController.swift in Sources */,
+				C4F51BB91FDB3EEA00808730 /* Vegas_Reviews.mlmodel in Sources */,
 				C4F51BA71FDB3EAA00808730 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

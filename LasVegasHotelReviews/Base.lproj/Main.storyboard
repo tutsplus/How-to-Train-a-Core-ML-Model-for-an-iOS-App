@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13122.16" systemVersion="17A277" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13104.12"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -9,16 +13,96 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="LasVegasHotelReviews" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Score" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aoK-uw-68h">
+                                <rect key="frame" x="20" y="290.5" width="44.5" height="20.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="5" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eof-vR-u95" userLabel="Score Value">
+                                <rect key="frame" x="165" y="323" width="46" height="57"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="78"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="fj8-Ry-dgO">
+                                <rect key="frame" x="20" y="40" width="335" height="200"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Nr. Reviews" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XOp-sc-fx9">
+                                        <rect key="frame" x="0.0" y="0.0" width="335" height="20.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <slider opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="248" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="320" minValue="0.0" maxValue="1000" translatesAutoresizingMaskIntoConstraints="NO" id="agR-RX-Evg" userLabel="Reviews">
+                                        <rect key="frame" x="-2" y="25.5" width="339" height="56.5"/>
+                                        <connections>
+                                            <action selector="makePrediction:" destination="BYZ-38-t0r" eventType="valueChanged" id="Nc3-9v-xBf"/>
+                                        </connections>
+                                    </slider>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="751" text="Nr. Hotel Reviews" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6jd-qw-lOY" userLabel="Nr. Hotel Reviews">
+                                        <rect key="frame" x="0.0" y="86" width="335" height="20.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <slider opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="320" minValue="0.0" maxValue="400" translatesAutoresizingMaskIntoConstraints="NO" id="wIE-dJ-WJc" userLabel="Hotel Reviews">
+                                        <rect key="frame" x="-2" y="111.5" width="339" height="31"/>
+                                        <connections>
+                                            <action selector="makePrediction:" destination="BYZ-38-t0r" eventType="valueChanged" id="ZXv-BA-Vbj"/>
+                                        </connections>
+                                    </slider>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Hotel Stars" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="d14-Ba-Dgp" userLabel="Hotel Stars">
+                                        <rect key="frame" x="0.0" y="146.5" width="335" height="20.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <segmentedControl opaque="NO" contentMode="scaleToFill" selected="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="f9E-BP-OBs" userLabel="Stars">
+                                        <rect key="frame" x="0.0" y="172" width="335" height="29"/>
+                                        <segments>
+                                            <segment title="⭐️⭐️⭐️"/>
+                                            <segment title="⭐️⭐️⭐️⭐️"/>
+                                            <segment title="⭐️⭐️⭐️⭐️⭐️"/>
+                                        </segments>
+                                        <connections>
+                                            <action selector="makePrediction:" destination="BYZ-38-t0r" eventType="valueChanged" id="v7R-uE-iRh"/>
+                                        </connections>
+                                    </segmentedControl>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.5401135735441005" green="0.9713449466339874" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="fj8-Ry-dgO" secondAttribute="bottom" constant="427" id="2xT-CM-iat"/>
+                            <constraint firstItem="aoK-uw-68h" firstAttribute="leading" secondItem="fj8-Ry-dgO" secondAttribute="leading" id="7To-Zh-vOS"/>
+                            <constraint firstItem="eof-vR-u95" firstAttribute="top" secondItem="aoK-uw-68h" secondAttribute="bottom" constant="12" id="Idt-ur-Wpo"/>
+                            <constraint firstItem="eof-vR-u95" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="J3B-Lt-8NT"/>
+                            <constraint firstItem="eof-vR-u95" firstAttribute="top" secondItem="fj8-Ry-dgO" secondAttribute="bottom" constant="83" id="MQw-SZ-UcM"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="fj8-Ry-dgO" secondAttribute="trailing" constant="20" id="Poh-qW-oUs"/>
+                            <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="aoK-uw-68h" secondAttribute="trailing" constant="20" symbolic="YES" id="Tba-BH-JLJ"/>
+                            <constraint firstItem="fj8-Ry-dgO" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="gbo-vg-MG8"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="eof-vR-u95" secondAttribute="bottom" constant="287" id="mTG-tr-cKH"/>
+                            <constraint firstItem="fj8-Ry-dgO" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="w9M-pX-EeG"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="nrHotelReviews" destination="wIE-dJ-WJc" id="ln1-ac-KqZ"/>
+                        <outlet property="nrReviews" destination="agR-RX-Evg" id="VaU-1l-QY4"/>
+                        <outlet property="scoreValue" destination="eof-vR-u95" id="ySm-1c-fLo"/>
+                        <outlet property="stackView" destination="fj8-Ry-dgO" id="Bjr-L4-snX"/>
+                        <outlet property="stars" destination="f9E-BP-OBs" id="itz-AZ-wly"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="32.799999999999997" y="33.733133433283363"/>
         </scene>
     </scenes>
 </document>
