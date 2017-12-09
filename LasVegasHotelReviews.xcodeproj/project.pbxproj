@@ -23,7 +23,7 @@
 		C4F51BAD1FDB3EAA00808730 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C4F51BB01FDB3EAA00808730 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C4F51BB21FDB3EAA00808730 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C4F51BB81FDB3EEA00808730 /* Vegas_Reviews.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = Vegas_Reviews.mlmodel; path = ../../Vegas_Reviews.mlmodel; sourceTree = "<group>"; };
+		C4F51BB81FDB3EEA00808730 /* Vegas_Reviews.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = Vegas_Reviews.mlmodel; path = ../Vegas_Reviews.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
